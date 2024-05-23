@@ -1,0 +1,9 @@
+.idea
+*_Git/
+CodeBasics/.venv/
+CodeBasics/.idea/
+CodeCamp/.venv/
+CodeCamp/.idea/
+CodeCamp/_pycache_/
+
+
